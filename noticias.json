@@ -1,0 +1,378 @@
+{
+    "data_noticias": [
+      {
+        "id": 1,
+        "attributes": {
+          "Title": "EDITAL DE DESFAZIMENTO DE BENS",
+          "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+          "Date": "01/03/2023",
+          "Tag": ["noticias", "dcom"],
+          "Image": {
+            "data": [
+              {
+                "attributes": {
+                  "formats": {
+                    "thumbnail": {
+                      "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg" 
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      {
+        "id": 2,
+        "attributes": {
+          "Title": "Fluxos Processuais aplicados às compras e contratações da UFRN.",
+          "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+          "Date": "02/03/2023",
+          "Tag": ["noticias"],
+          "Image": {
+            "data": [
+              {
+                "attributes": {
+                  "formats": {
+                    "thumbnail": {
+                      "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg" 
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      { 
+        "id": 3,
+        "attributes": {
+          "Title": " EDITAL DE LEILÃO 01-2022",
+          "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+          "Date": "03/03/2023",
+          "Tag": ["noticias", "dcom"],
+          "Image": {
+            "data": [
+              {
+                "attributes": {
+                  "formats": {
+                    "thumbnail": {
+                      "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg" 
+                    }
+                  }
+                }
+              }
+            ]
+          }
+        }
+
+      },
+        {
+            "id": 4,
+            "attributes": {
+            "Title": "EDITAL DE DESFAZIMENTO POR DOAÇÃO nº 03-2021 Edital complementar 01",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "04/03/2023",
+            "Tag": ["noticias"],
+            "Image": {
+                "data": [
+                {
+                    "attributes": {
+                    "formats": {
+                        "thumbnail": {
+                        "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg" 
+                        }
+                    }
+                    }
+                }
+                ]
+            }
+            }
+        },
+        {
+            "id": 5,
+            "attributes": {
+            "Title": "PLANO DE CONTRATAÇÃO 2023",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "05/03/2023",
+            "Tag": ["noticias", "dcom"],
+            "Image": {
+                "data": [
+                {
+                    "attributes": {
+                    "formats": {
+                        "thumbnail": {
+                        "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg" 
+                        }
+                    }
+                    }
+                }
+                ]
+            }
+            }
+        },
+        {
+            "id": 6,
+            "attributes": {
+            "Title": "PAC 23",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "06/03/2023",
+            "Tag": ["noticias"],
+            "Image": {
+                "data": [
+                {
+                    "attributes": {
+                    "formats": {
+                        "thumbnail": {
+                        "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg" 
+                        }
+                    }
+                    }
+                }
+                ]
+            }
+            }
+        },{
+        "id": 7,
+        "attributes": {
+            "Title": "EDITAL DE DESFAZIMENTO POR DOAÇÃO Nº 03-2021",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisls, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "01/03/2023",
+            "Tag": ["editais_homologados"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 8,
+        "attributes": {
+            "Title": "Título do edital homologado 2",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisls, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "02/03/2023",
+            "Tag": ["editais_homologados"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 9,
+        "attributes": {
+            "Title": "Título do edital homologado 3",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisls, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "03/03/2023",
+            "Tag": ["editais_homologados", "dcom"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10,
+        "attributes": {
+            "Title": "Título do edital homologado 4",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisls, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "04/03/2023",
+            "Tag": ["editais_homologados", "dcom"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11,
+        "attributes": {
+            "Title": "Título do edital homologado 5",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisls, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "05/03/2023",
+            "Tag": ["editais_homologados", "dcom"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12,
+        "attributes": {
+            "Title": "Título do edital 12",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "04/03/2023",
+            "Tag": ["editais_licitacoes"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 13,
+        "attributes": {
+            "Title": "Título do edital 13",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "05/03/2023",
+            "Tag": ["editais_licitacoes"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 14,
+        "attributes": {
+            "Title": "Título do edital 14",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "06/03/2023",
+            "Tag": ["editais_licitacoes"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 15,
+        "attributes": {
+            "Title": "Título do edital 15",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "07/03/2023",
+            "Tag": ["editais_licitacoes"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 16,
+        "attributes": {
+            "Title": "Título do edital 16",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "08/03/2023",
+            "Tag": ["editais_licitacoes", "dcom"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 17,
+        "attributes": {
+            "Title": "Título do edital 17",
+            "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
+            "Date": "09/03/2023",
+            "Tag": ["editais_licitacoes", "dcom"],
+            "Image": {
+                "data": [
+                    {
+                        "attributes": {
+                            "formats": {
+                                "thumbnail": {
+                                    "url": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
+                                }
+                            }
+                        }
+                    }
+                ]
+            }
+        }
+    }
+    ]
+  }
