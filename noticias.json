@@ -157,7 +157,7 @@
     {
         "id": 8,
         "attributes": {
-            "Title": "Título do edital homologado 2",
+            "Title": "Aviso de Chamada Pública n° 01-2020 Aquisição de alimentos de agricultores familiares",
             "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisls, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
             "Date": "02/03/2023",
             "Tag": ["editais_homologados"],
@@ -223,7 +223,7 @@
     {
         "id": 11,
         "attributes": {
-            "Title": "Título do edital homologado 5",
+            "Title": "EDITAL DE DESFAZIMENTO POR DOAÇÃO Nº 02-2021",
             "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisls, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
             "Date": "05/03/2023",
             "Tag": ["editais_homologados", "dcom"],
@@ -245,7 +245,7 @@
     {
         "id": 12,
         "attributes": {
-            "Title": "Título do edital 12",
+            "Title": "Chamada Pública n° 01/2021 Empresa de Serviços de Conservação de Energia Elétrica (ESCO)",
             "Description": "Ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, nunc sit amet aliquam luctus, nisi nisl aliquam nisl, eu aliquam nisl nisl sit amet nisl.",
             "Date": "04/03/2023",
             "Tag": ["editais_licitacoes"],
