@@ -271,7 +271,8 @@
         "dircompras",
         "proad",
         "transparência",
-        "ufrn"
+        "ufrn",
+        "compras"
       ],
         "imagem": "https://res.cloudinary.com/duvilxqtv/image/upload/v1685159843/proad.jpg"
     },
@@ -405,7 +406,6 @@
       },
       "tags": [
         "aquisiçõespúblicas",
-        "compras",
         "dmp",
         "finanças",
         "ifes",
